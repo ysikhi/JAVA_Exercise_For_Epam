@@ -24,7 +24,7 @@ public class program7
 		}
 		for(int i=0;i<n;i++)
 		{
-			if(a[i]==0)
+			if(a[i]!=0)
 			{
 				System.out.println(a[i]);
 			}
